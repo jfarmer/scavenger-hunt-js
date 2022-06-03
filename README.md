@@ -12,7 +12,7 @@ Every item below refers to a specific function built into the JavaScript languag
    I give you `10` and `3`, you give me `1`.
 1. Given two arrays, tell me how get a new array that consists of all the elements in the first array followed by all the elements in the second array.
 
-   I give you `[10, 20, 30]` and `['one', 'two', 'three']`, you give me `[10, 20, 40, 'one', 'two', 'three']`.
+   I give you `[10, 20, 40]` and `['one', 'two', 'three']`, you give me `[10, 20, 40, 'one', 'two', 'three']`.
 1. Given two strings, tell me whether the second string appears anywhere in the first string.
 
    I give you `'one two three'` and `'two'`, you give me `true`.
